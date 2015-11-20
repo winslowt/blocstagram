@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../Blocstagram/ImagesTableViewController.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Blocstagram/ImagesTableViewController.m">
+   </FileRef>
+   <FileRef
       location = "self:Blocstagram.xcodeproj">
    </FileRef>
 </Workspace>
