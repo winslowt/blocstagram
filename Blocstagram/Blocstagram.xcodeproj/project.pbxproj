@@ -23,6 +23,10 @@
 		DA7FCE0F1BFEA4BA00D3A1D4 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA7FCE051BFEA4BA00D3A1D4 /* 6.jpg */; };
 		DA7FCE111BFEAFB300D3A1D4 /* 2a.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA7FCE101BFEAFB300D3A1D4 /* 2a.jpg */; };
 		DA7FCE141BFEAFC200D3A1D4 /* ImagesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7FCE131BFEAFC200D3A1D4 /* ImagesTableViewController.m */; };
+		DA7FCE171C00D6A500D3A1D4 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7FCE161C00D6A500D3A1D4 /* User.m */; };
+		DA7FCE1A1C00D78400D3A1D4 /* Media.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7FCE191C00D78400D3A1D4 /* Media.m */; };
+		DA7FCE1D1C00D83300D3A1D4 /* Comment.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7FCE1C1C00D83300D3A1D4 /* Comment.m */; };
+		DA7FCE201C00D95600D3A1D4 /* DataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7FCE1F1C00D95600D3A1D4 /* DataSource.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +62,14 @@
 		DA7FCE101BFEAFB300D3A1D4 /* 2a.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2a.jpg; sourceTree = "<group>"; };
 		DA7FCE121BFEAFC200D3A1D4 /* ImagesTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ImagesTableViewController.h; path = Blocstagram/ImagesTableViewController.h; sourceTree = "<group>"; };
 		DA7FCE131BFEAFC200D3A1D4 /* ImagesTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ImagesTableViewController.m; path = Blocstagram/ImagesTableViewController.m; sourceTree = "<group>"; };
+		DA7FCE151C00D6A500D3A1D4 /* User.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = User.h; path = Blocstagram/User.h; sourceTree = "<group>"; };
+		DA7FCE161C00D6A500D3A1D4 /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = User.m; path = Blocstagram/User.m; sourceTree = "<group>"; };
+		DA7FCE181C00D78400D3A1D4 /* Media.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Media.h; path = Blocstagram/Media.h; sourceTree = "<group>"; };
+		DA7FCE191C00D78400D3A1D4 /* Media.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Media.m; path = Blocstagram/Media.m; sourceTree = "<group>"; };
+		DA7FCE1B1C00D83300D3A1D4 /* Comment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Comment.h; sourceTree = "<group>"; };
+		DA7FCE1C1C00D83300D3A1D4 /* Comment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Comment.m; sourceTree = "<group>"; };
+		DA7FCE1E1C00D95600D3A1D4 /* DataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DataSource.h; path = Blocstagram/DataSource.h; sourceTree = "<group>"; };
+		DA7FCE1F1C00D95600D3A1D4 /* DataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DataSource.m; path = Blocstagram/DataSource.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +95,14 @@
 			children = (
 				DA7FCE121BFEAFC200D3A1D4 /* ImagesTableViewController.h */,
 				DA7FCE131BFEAFC200D3A1D4 /* ImagesTableViewController.m */,
+				DA7FCE151C00D6A500D3A1D4 /* User.h */,
+				DA7FCE161C00D6A500D3A1D4 /* User.m */,
+				DA7FCE181C00D78400D3A1D4 /* Media.h */,
+				DA7FCE191C00D78400D3A1D4 /* Media.m */,
+				DA7FCE1B1C00D83300D3A1D4 /* Comment.h */,
+				DA7FCE1C1C00D83300D3A1D4 /* Comment.m */,
+				DA7FCE1E1C00D95600D3A1D4 /* DataSource.h */,
+				DA7FCE1F1C00D95600D3A1D4 /* DataSource.m */,
 				DA7FCDD41BFEA30300D3A1D4 /* Blocstagram */,
 				DA7FCDEE1BFEA30300D3A1D4 /* BlocstagramTests */,
 				DA7FCDD31BFEA30300D3A1D4 /* Products */,
@@ -263,7 +283,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA7FCE171C00D6A500D3A1D4 /* User.m in Sources */,
+				DA7FCE1A1C00D78400D3A1D4 /* Media.m in Sources */,
 				DA7FCE141BFEAFC200D3A1D4 /* ImagesTableViewController.m in Sources */,
+				DA7FCE1D1C00D83300D3A1D4 /* Comment.m in Sources */,
+				DA7FCE201C00D95600D3A1D4 /* DataSource.m in Sources */,
 				DA7FCDDB1BFEA30300D3A1D4 /* AppDelegate.m in Sources */,
 				DA7FCDD81BFEA30300D3A1D4 /* main.m in Sources */,
 			);

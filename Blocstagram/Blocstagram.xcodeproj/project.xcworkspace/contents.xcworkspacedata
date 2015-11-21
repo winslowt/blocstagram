@@ -2,6 +2,30 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../Blocstagram/DataSource.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Blocstagram/DataSource.m">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/tonywinslow/bloc/blocstagram/Blocstagram/Comment.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/tonywinslow/bloc/blocstagram/Blocstagram/Comment.m">
+   </FileRef>
+   <FileRef
+      location = "group:../Blocstagram/Media.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Blocstagram/Media.m">
+   </FileRef>
+   <FileRef
+      location = "group:../Blocstagram/User.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Blocstagram/User.m">
+   </FileRef>
+   <FileRef
       location = "group:../Blocstagram/ImagesTableViewController.h">
    </FileRef>
    <FileRef
