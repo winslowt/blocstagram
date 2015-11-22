@@ -27,6 +27,7 @@
 		DA7FCE1A1C00D78400D3A1D4 /* Media.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7FCE191C00D78400D3A1D4 /* Media.m */; };
 		DA7FCE1D1C00D83300D3A1D4 /* Comment.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7FCE1C1C00D83300D3A1D4 /* Comment.m */; };
 		DA7FCE201C00D95600D3A1D4 /* DataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7FCE1F1C00D95600D3A1D4 /* DataSource.m */; };
+		DA7FCE231C00F1A000D3A1D4 /* MediaTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA7FCE221C00F1A000D3A1D4 /* MediaTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,8 @@
 		DA7FCE1C1C00D83300D3A1D4 /* Comment.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Comment.m; sourceTree = "<group>"; };
 		DA7FCE1E1C00D95600D3A1D4 /* DataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DataSource.h; path = Blocstagram/DataSource.h; sourceTree = "<group>"; };
 		DA7FCE1F1C00D95600D3A1D4 /* DataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DataSource.m; path = Blocstagram/DataSource.m; sourceTree = "<group>"; };
+		DA7FCE211C00F1A000D3A1D4 /* MediaTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MediaTableViewCell.h; sourceTree = "<group>"; };
+		DA7FCE221C00F1A000D3A1D4 /* MediaTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 1; path = MediaTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +106,8 @@
 				DA7FCE1C1C00D83300D3A1D4 /* Comment.m */,
 				DA7FCE1E1C00D95600D3A1D4 /* DataSource.h */,
 				DA7FCE1F1C00D95600D3A1D4 /* DataSource.m */,
+				DA7FCE211C00F1A000D3A1D4 /* MediaTableViewCell.h */,
+				DA7FCE221C00F1A000D3A1D4 /* MediaTableViewCell.m */,
 				DA7FCDD41BFEA30300D3A1D4 /* Blocstagram */,
 				DA7FCDEE1BFEA30300D3A1D4 /* BlocstagramTests */,
 				DA7FCDD31BFEA30300D3A1D4 /* Products */,
@@ -285,6 +290,7 @@
 			files = (
 				DA7FCE171C00D6A500D3A1D4 /* User.m in Sources */,
 				DA7FCE1A1C00D78400D3A1D4 /* Media.m in Sources */,
+				DA7FCE231C00F1A000D3A1D4 /* MediaTableViewCell.m in Sources */,
 				DA7FCE141BFEAFC200D3A1D4 /* ImagesTableViewController.m in Sources */,
 				DA7FCE1D1C00D83300D3A1D4 /* Comment.m in Sources */,
 				DA7FCE201C00D95600D3A1D4 /* DataSource.m in Sources */,
@@ -478,6 +484,7 @@
 				DA7FCDF71BFEA30300D3A1D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DA7FCDF81BFEA30300D3A1D4 /* Build configuration list for PBXNativeTarget "BlocstagramTests" */ = {
 			isa = XCConfigurationList;
@@ -486,6 +493,7 @@
 				DA7FCDFA1BFEA30300D3A1D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
