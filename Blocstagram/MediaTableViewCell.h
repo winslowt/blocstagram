@@ -13,7 +13,10 @@
 @interface MediaTableViewCell : UITableViewCell
 
 @property (nonatomic, strong) Media *mediaItem;
-@property (nonatomic, readonly) NSTextAlignment *setTextAlignment;
+@property (nonatomic, strong) NSLayoutConstraint *imageHeightConstraint;
+@property (nonatomic, strong) NSLayoutConstraint *usernameAndCaptionLabelHeightConstraint;
+@property (nonatomic, strong) NSLayoutConstraint *commentLabelHeightConstraint;
+@property (nonatomic, strong) NSLayoutConstraint *imageWidthConstraint;
 
 
 + (CGFloat) heightForMediaItem:(Media *)mediaItem width:(CGFloat)width;
