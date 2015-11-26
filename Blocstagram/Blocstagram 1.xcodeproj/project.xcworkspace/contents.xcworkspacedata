@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Blocstagram.xcodeproj">
+      location = "self:/Users/tonywinslow/bloc/blocstagram/Blocstagram/Blocstagram 1.xcodeproj">
    </FileRef>
 </Workspace>

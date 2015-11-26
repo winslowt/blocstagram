@@ -41,14 +41,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		DA7FCDD21BFEA30300D3A1D4 /* Blocstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Blocstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA7FCDD21BFEA30300D3A1D4 /* Blocstagram 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Blocstagram 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA7FCDD61BFEA30300D3A1D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DA7FCDD71BFEA30300D3A1D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DA7FCDD91BFEA30300D3A1D4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DA7FCDDA1BFEA30300D3A1D4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		DA7FCDE21BFEA30300D3A1D4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		DA7FCDE51BFEA30300D3A1D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		DA7FCDEB1BFEA30300D3A1D4 /* BlocstagramTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlocstagramTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA7FCDEB1BFEA30300D3A1D4 /* Blocstagram 1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Blocstagram 1Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA7FCDF01BFEA30300D3A1D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DA7FCDF11BFEA30300D3A1D4 /* BlocstagramTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlocstagramTests.m; sourceTree = "<group>"; };
 		DA7FCDFC1BFEA4BA00D3A1D4 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
@@ -117,8 +117,8 @@
 		DA7FCDD31BFEA30300D3A1D4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DA7FCDD21BFEA30300D3A1D4 /* Blocstagram.app */,
-				DA7FCDEB1BFEA30300D3A1D4 /* BlocstagramTests.xctest */,
+				DA7FCDD21BFEA30300D3A1D4 /* Blocstagram 1.app */,
+				DA7FCDEB1BFEA30300D3A1D4 /* Blocstagram 1Tests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -182,9 +182,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DA7FCDD11BFEA30300D3A1D4 /* Blocstagram */ = {
+		DA7FCDD11BFEA30300D3A1D4 /* Blocstagram 1 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DA7FCDF51BFEA30300D3A1D4 /* Build configuration list for PBXNativeTarget "Blocstagram" */;
+			buildConfigurationList = DA7FCDF51BFEA30300D3A1D4 /* Build configuration list for PBXNativeTarget "Blocstagram 1" */;
 			buildPhases = (
 				DA7FCDCE1BFEA30300D3A1D4 /* Sources */,
 				DA7FCDCF1BFEA30300D3A1D4 /* Frameworks */,
@@ -194,14 +194,14 @@
 			);
 			dependencies = (
 			);
-			name = Blocstagram;
+			name = "Blocstagram 1";
 			productName = Blocstagram;
-			productReference = DA7FCDD21BFEA30300D3A1D4 /* Blocstagram.app */;
+			productReference = DA7FCDD21BFEA30300D3A1D4 /* Blocstagram 1.app */;
 			productType = "com.apple.product-type.application";
 		};
-		DA7FCDEA1BFEA30300D3A1D4 /* BlocstagramTests */ = {
+		DA7FCDEA1BFEA30300D3A1D4 /* Blocstagram 1Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DA7FCDF81BFEA30300D3A1D4 /* Build configuration list for PBXNativeTarget "BlocstagramTests" */;
+			buildConfigurationList = DA7FCDF81BFEA30300D3A1D4 /* Build configuration list for PBXNativeTarget "Blocstagram 1Tests" */;
 			buildPhases = (
 				DA7FCDE71BFEA30300D3A1D4 /* Sources */,
 				DA7FCDE81BFEA30300D3A1D4 /* Frameworks */,
@@ -212,9 +212,9 @@
 			dependencies = (
 				DA7FCDED1BFEA30300D3A1D4 /* PBXTargetDependency */,
 			);
-			name = BlocstagramTests;
+			name = "Blocstagram 1Tests";
 			productName = BlocstagramTests;
-			productReference = DA7FCDEB1BFEA30300D3A1D4 /* BlocstagramTests.xctest */;
+			productReference = DA7FCDEB1BFEA30300D3A1D4 /* Blocstagram 1Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -235,7 +235,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DA7FCDCD1BFEA30300D3A1D4 /* Build configuration list for PBXProject "Blocstagram" */;
+			buildConfigurationList = DA7FCDCD1BFEA30300D3A1D4 /* Build configuration list for PBXProject "Blocstagram 1" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -248,8 +248,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DA7FCDD11BFEA30300D3A1D4 /* Blocstagram */,
-				DA7FCDEA1BFEA30300D3A1D4 /* BlocstagramTests */,
+				DA7FCDD11BFEA30300D3A1D4 /* Blocstagram 1 */,
+				DA7FCDEA1BFEA30300D3A1D4 /* Blocstagram 1Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -312,7 +312,7 @@
 /* Begin PBXTargetDependency section */
 		DA7FCDED1BFEA30300D3A1D4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DA7FCDD11BFEA30300D3A1D4 /* Blocstagram */;
+			target = DA7FCDD11BFEA30300D3A1D4 /* Blocstagram 1 */;
 			targetProxy = DA7FCDEC1BFEA30300D3A1D4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -417,7 +417,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Blocstagram/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Blocstagram 1";
 			};
 			name = Debug;
 		};
@@ -427,7 +427,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Blocstagram/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Blocstagram 1";
 			};
 			name = Release;
 		};
@@ -445,7 +445,7 @@
 				);
 				INFOPLIST_FILE = BlocstagramTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Blocstagram 1Tests";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Blocstagram.app/Blocstagram";
 			};
 			name = Debug;
@@ -460,7 +460,7 @@
 				);
 				INFOPLIST_FILE = BlocstagramTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Blocstagram 1Tests";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Blocstagram.app/Blocstagram";
 			};
 			name = Release;
@@ -468,7 +468,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DA7FCDCD1BFEA30300D3A1D4 /* Build configuration list for PBXProject "Blocstagram" */ = {
+		DA7FCDCD1BFEA30300D3A1D4 /* Build configuration list for PBXProject "Blocstagram 1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DA7FCDF31BFEA30300D3A1D4 /* Debug */,
@@ -477,7 +477,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DA7FCDF51BFEA30300D3A1D4 /* Build configuration list for PBXNativeTarget "Blocstagram" */ = {
+		DA7FCDF51BFEA30300D3A1D4 /* Build configuration list for PBXNativeTarget "Blocstagram 1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DA7FCDF61BFEA30300D3A1D4 /* Debug */,
@@ -486,7 +486,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DA7FCDF81BFEA30300D3A1D4 /* Build configuration list for PBXNativeTarget "BlocstagramTests" */ = {
+		DA7FCDF81BFEA30300D3A1D4 /* Build configuration list for PBXNativeTarget "Blocstagram 1Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DA7FCDF91BFEA30300D3A1D4 /* Debug */,

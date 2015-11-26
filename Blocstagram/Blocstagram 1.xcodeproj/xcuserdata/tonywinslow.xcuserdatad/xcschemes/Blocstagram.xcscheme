@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DA7FCDD11BFEA30300D3A1D4"
-               BuildableName = "Blocstagram.app"
-               BlueprintName = "Blocstagram"
-               ReferencedContainer = "container:Blocstagram.xcodeproj">
+               BuildableName = "Blocstagram 1.app"
+               BlueprintName = "Blocstagram 1"
+               ReferencedContainer = "container:Blocstagram 1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DA7FCDEA1BFEA30300D3A1D4"
-               BuildableName = "BlocstagramTests.xctest"
-               BlueprintName = "BlocstagramTests"
-               ReferencedContainer = "container:Blocstagram.xcodeproj">
+               BuildableName = "Blocstagram 1Tests.xctest"
+               BlueprintName = "Blocstagram 1Tests"
+               ReferencedContainer = "container:Blocstagram 1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DA7FCDEA1BFEA30300D3A1D4"
-               BuildableName = "BlocstagramTests.xctest"
-               BlueprintName = "BlocstagramTests"
-               ReferencedContainer = "container:Blocstagram.xcodeproj">
+               BuildableName = "Blocstagram 1Tests.xctest"
+               BlueprintName = "Blocstagram 1Tests"
+               ReferencedContainer = "container:Blocstagram 1.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DA7FCDD11BFEA30300D3A1D4"
-            BuildableName = "Blocstagram.app"
-            BlueprintName = "Blocstagram"
-            ReferencedContainer = "container:Blocstagram.xcodeproj">
+            BuildableName = "Blocstagram 1.app"
+            BlueprintName = "Blocstagram 1"
+            ReferencedContainer = "container:Blocstagram 1.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DA7FCDD11BFEA30300D3A1D4"
-            BuildableName = "Blocstagram.app"
-            BlueprintName = "Blocstagram"
-            ReferencedContainer = "container:Blocstagram.xcodeproj">
+            BuildableName = "Blocstagram 1.app"
+            BlueprintName = "Blocstagram 1"
+            ReferencedContainer = "container:Blocstagram 1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DA7FCDD11BFEA30300D3A1D4"
-            BuildableName = "Blocstagram.app"
-            BlueprintName = "Blocstagram"
-            ReferencedContainer = "container:Blocstagram.xcodeproj">
+            BuildableName = "Blocstagram 1.app"
+            BlueprintName = "Blocstagram 1"
+            ReferencedContainer = "container:Blocstagram 1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
